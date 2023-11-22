@@ -25,7 +25,7 @@ All of my frontend products compatible with modern browsers + IE 10 and IE 11. [
 - redis for in-memory storage.
 - PostgreSQL and slonik as a database client.
 - ajv to validate schemas.
-- Logto for authentication.
+- [Logto](https://github.com/logto-io/logto) for authentication.
 - pino for logging.
 ### Desktop
 - **Xcode** for iOS apps and **WebStorm** for all the other apps
