@@ -1,41 +1,34 @@
 # Murat Gözel
 Hi there,
 
-My name is Murat. I'm an independent, senior-level software developer specialized in creating accessible, beautiful and robust software products. My portfolio contains various kind of applications including frontend, backend, bot, iOS and CLI apps. I worked with B2B companies closely for most of my career and has been in different kind of digital communities.
+My name is Murat. I'm an independent software developer and designer. Here at Github, I maintain my open source works and run some private projects.
 
-It's been more than ten years I have been building custom software and making infrastructural decisions, therefore yes, I have a few open-source projects that I built completely with the intention of helping young fellows. You will find some below.
+I might have few things to write this public profile. Let's start with the **tech stacks** I used so far:
+- 6 years: nginx + node.js + docker + postgresql + redis + react, svelte 
+- 8 years: apache + php + mysql + jquery
+- 2 years: Adobe Dreamweaver + ActionScript (Flash)
 
-## Tech Stack
-My tech stack contains technologies both in programming and design. These are the technologies I trust most and can recommend.
-- My primary programming language is javascript with typescript and I'm able to code in python, solidity, swift and shell as well.
-- eslint and prettier to keep my codebases clean and standard.
-- vitest for testing.
-- Conventional commits, commitlint, [Buildkite](https://buildkite.com) and shell scripts to run CI/CD workflows.
-- Svelte as a frontend framework including SSG.
-- Tailwind for styling.
-- Fastify as backend server framework.
-- Redis for in-memory storage.
-- PostgreSQL as a database and DataGrip as GUI.
-- [Logto](https://github.com/logto-io/logto) for authentication.
-- Docker for containerizing my backend apps.
-- WebStorm as a code editor.
-- Xcode for iOS apps.
-- [Sketch](https://www.sketch.com) to design user interfaces and other things.
-- Adobe Illustrator for print design.
-- Digitalocean for cloud servers.
-- AWS S3 for various storage needs.
+And I'm a designer as much as I'm a developer:
+- Sketch, Figma, Adobe Illustrator and Photoshop
+
+The following services are doing their job great and they absolutely deserve a **mention** here:
+- [Buildkite](https://buildkite.com) for running my wild CI/CD workflows
+- [Logto](https://github.com/logto-io/logto) for authentication and authorization
+- WebStorm and Datagrip are excellent tools that I can't live without while building things
+- [Postmark](https://postmarkapp.com) and AWS SES for transactional emails.
 - [Infisical](https://infisical.com) for secret management.
-- [Postmark](https://postmarkapp.com) and AWS SES for transactional email.
-- [Matomo](https://matomo.org) for analytics.
+- [Matomo](https://matomo.org) for product analytics.
 
-## Principles
+I'm old enough to set some **principles** for myself:
 - I avoid workng with big tech giants as much as possible.
 - Learn what's new and stay customer optimized.
 - Infrastructure comes first to create maintainable and reliable products.
 - My frontend products are compatible with modern browsers, IE 10 and IE 11.
 
-## Design Portfolio
-My works can be found here: [behance.net/muratgozel](https://www.behance.net/muratgozel)
+Thanks for reading.
+
+Have a visit to my personal website to read my blog and other stuff:
+[muratgozel.com.tr](https://muratgozel.com.tr)
 
 <!--
 **muratgozel/muratgozel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
