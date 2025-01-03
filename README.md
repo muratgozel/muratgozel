@@ -1,34 +1,30 @@
 # Murat Gözel
 Hi there,
 
-My name is Murat. I'm an independent software developer and designer. Here at Github, I maintain my open source works and run some private projects.
+My name is Murat. I'm independent software developer and designer. Here at Github, I maintain my open source works and run my private projects.
 
-I might have few things to write this public profile. Let's start with the **tech stacks** I used so far:
-- 6 years: nginx + node.js + docker + postgresql + redis + react, svelte 
-- 8 years: apache + php + mysql + jquery
-- 2 years: Adobe Dreamweaver + ActionScript (Flash)
+## Tech Stack
+- Server softwares: **nginx**, apache, haproxy, **Grafana**
+- CI CD: **Github Actions**, Buildkite, **docker**, shell
+- Database: **PostgreSQL**, MySQL, **Clickhouse**, **Redis**, MongoDB, GraphQL
+- Languages: **node**, **javascript**, python, swift, solidity, shell, php, ActionScript (back in 2010)
+- Server frameworks: **fastify**, nestjs, **RabbitMQ**
+- Frontend frameworks: **React**, Svelte, **next.js**, swiftui, jquery
+- Design: **Sketch**, **Figma**, **Adobe Illustrator**, Adobe Photoshop
+- Third party: Directus, [Infisical](https://infisical.com), Postmark, [Matomo](https://matomo.org), JetBrains IDEs, Hetzner, [Logto](https://github.com/logto-io/logto), Xcode, AWS (SES, S3, Cloudfront), Google Cloud (Maps, Signin), Adobe Dreamweaver (back in 2010)
 
-And I'm a designer as much as I'm a developer:
-- Sketch, Figma, Adobe Illustrator and Photoshop
-
-The following services are doing their job great and they absolutely deserve a **mention** here:
-- [Buildkite](https://buildkite.com) for running my wild CI/CD workflows
-- [Logto](https://github.com/logto-io/logto) for authentication and authorization
-- WebStorm and Datagrip are excellent tools that I can't live without while building things
-- [Postmark](https://postmarkapp.com) and AWS SES for transactional emails.
-- [Infisical](https://infisical.com) for secret management.
-- [Matomo](https://matomo.org) for product analytics.
-
-I'm old enough to set some **principles** for myself:
+## Principles
 - I avoid workng with big tech giants as much as possible.
-- Learn what's new and stay customer optimized.
+- Learn what's new but always orient yourself to customer needs.
 - Infrastructure comes first to create maintainable and reliable products.
-- My frontend products are compatible with modern browsers, IE 10 and IE 11.
+- The term "modern" is mostly deceiving, look what people mostly using or thinking.
 
-Thanks for reading.
+If you'r using one of my open-source libraries consider sponsoring me on [patreon](https://patreon.com/muratgozel?utm_medium=organic&utm_source=github_repo&utm_campaign=github&utm_content=join_link) or [github](https://github.com/sponsors/muratgozel).
 
 Have a visit to my personal website to read my blog and other stuff:
 [muratgozel.com.tr](https://muratgozel.com.tr)
+
+Thanks for reading.
 
 <!--
 **muratgozel/muratgozel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
